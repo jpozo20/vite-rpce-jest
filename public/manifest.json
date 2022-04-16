@@ -1,0 +1,14 @@
+{
+	"manifest_version": 3,
+	"version": "0.1.0",
+	"short_name": "Vite + React.js + RPCE",
+	"name": "Vite + React.js + RPCE",
+	"description": "Vite + React.js + RPCE template for creating browser extensions",
+	"commands": {},
+	"permissions": [],
+	"action": {
+		"default_title": "Vite + React.js + RPCE",
+		"default_popup": "public/popup.html"
+	},
+	"options_page": "public/options.html"
+}
